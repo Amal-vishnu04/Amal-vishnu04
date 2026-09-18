@@ -17,7 +17,7 @@
 
 <br/>
 
->  👋 I am a final-year Computer Science & Engineering student at Suguna College of Engineering (Anna University) with a strong foundation in full-stack engineering, backend architecture, and AI/ML integrations. I thrive on solving practical engineering problems and driving continuous technical growth.
+> 👋 I am a final-year Computer Science & Engineering student at Suguna College of Engineering (Anna University) with a strong foundation in full-stack engineering, backend architecture, and AI/ML integrations. I thrive on solving practical engineering problems and driving continuous technical growth.
 
 ---
 
@@ -156,12 +156,18 @@ I am eager to build a long-term career in software development, particularly wit
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amal-vishnu04&show_icons=true&hide_border=true&count_private=true" alt="Amal Vishnu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amal-vishnu04&hide_border=true" alt="Amal Vishnu's GitHub Streak" width="48%" />
+  <a href="https://github.com/Amal-vishnu04">
+    <img src="https://github-readme-stats.vercel.app/api?username=Amal-vishnu04&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800&v=2" width="48%" alt="Amal Vishnu's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Amal-vishnu04">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amal-vishnu04&theme=dark&hide_border=true" width="48%" alt="Amal Vishnu's GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-vishnu04&layout=compact&hide_border=true" alt="Top Languages" width="60%" />
+  <a href="https://github.com/Amal-vishnu04">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-vishnu04&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800&v=2" width="55%" alt="Top Languages" />
+  </a>
 </p>
 
 ---
@@ -169,11 +175,11 @@ I am eager to build a long-term career in software development, particularly wit
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+  <a href="https://www.linkedin.com/in/amal-vishnu-g-a8a0033b5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL_ADDRESS@example.com">
+  <a href="mailto:amalvishnu21702@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
