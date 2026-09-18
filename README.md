@@ -192,16 +192,15 @@ I am eager to build a long-term career in software development, particularly wit
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amal-vishnu04&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&v=2" width="48%" alt="Amal Vishnu's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amal-vishnu04&theme=radical&hide_border=true" width="48%" alt="Amal Vishnu's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amal-vishnu04&theme=radical&hide_border=true" width="60%" alt="Amal Vishnu's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-vishnu04&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800&v=2" width="55%" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Amal-vishnu04&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10" width="85%" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal-vishnu04&theme=react-dark&hide_border=true&area=true" width="90%" alt="Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,vercel" alt="Skill Icons" />
 </p>
 
 ---
